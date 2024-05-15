@@ -41,8 +41,6 @@ class CalculateViewController: UIViewController, UITextFieldDelegate {
         
     }
     
-    
-    
     //Setting Action for Tip buttons (0%, 10% & 20%)
     
     @IBAction func btnTipPercentagePressed(_ sender: UIButton) {
